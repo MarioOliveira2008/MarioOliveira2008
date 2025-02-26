@@ -20,7 +20,15 @@ def ola_mundo() {
 
 ## Atividade 
 
-# 
+# Meu repositorio
+
+ - Sou o **Mario**,  tenho 16 anos, `sou atleta no Sesi` e estou no curso de Desenvolvimento de sistemas.
+ - Estou estudando **Desenvolvimento de Sistemas**.![Imagem_T.I](![image](https://github.com/user-attachments/assets/56545611-48c7-48e1-8c91-0c41ecb1daac)
+ - Gostaria de seguir carreira em `Desenvolvimento de Sistemas`💻, Ou nos esportes 🤽‍♂️.
+ - ```Gosto de jogar no computador, Pescar com meu amigo 🎣 e jogar futevolei.```![Imagem_Futevolei](![image](https://github.com/user-attachments/assets/776209f4-0010-406d-b444-458f8be720ca)
+
+
+
 
 
 
