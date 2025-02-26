@@ -1,16 +1,26 @@
-## Hi there 👋
+# Este sou eu 
 
-<!--
-**MarioOliveira2008/MarioOliveira2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o **Mario Oliveira**, <ins>aluno do Sesi e Senai</ins> *faço polo aquatico* e gosto de futebol
 
-Here are some ideas to get you started:
+## Formação academica 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou me formando em tecnologia da informação
+
+Posso escrever um pequeno trecho de código como `git status` ou então trechos maiores como o abaixo:
+
+```javascript
+const constante = 0; //constante precisa ser iniciada
+```
+
+```python
+def ola_mundo() {
+ print( "Ola, Mundo!")
+}
+```
+
+## Atividade 
+
+# 
+
+
+
